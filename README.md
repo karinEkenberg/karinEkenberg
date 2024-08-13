@@ -1,6 +1,6 @@
 # reimagined-doodle
-
-- 🔭 I’m currently working on - A lot of different things but mostly things related to C#, JS, CSS, Figma etc..
+- 💬 I recently joined a volunteer project where I am collaborating with a team of developers to build a website using Angular. It's a great opportunity to contribute my skills while learning from others and working on something meaningful. Together, we are focusing on creating a dynamic and user-friendly platform.
+- 🔭 I’m currently working on - A lot of different things but mostly things related to C#, JS, CSS, Figma.
 - 🌱 I’m currently learning - Many different things but mainly C# and PHP atm :)
 - 💬 Ask me about - Anything and I will most likely answer :) 
 - 📫 How to reach me: www.karinwebdesigner.com < has all my info
