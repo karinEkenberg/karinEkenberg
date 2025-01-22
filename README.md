@@ -1,8 +1,38 @@
-# reimagined-doodle
-- 💬 I recently joined a volunteer project where I am collaborating with a team of developers to build a website using Angular. It's a great opportunity to contribute my skills while learning from others and working on something meaningful. Together, we are focusing on creating a dynamic and user-friendly platform.
-- 🔭 I’m currently working on - A lot of different things but mostly things related to C#, JS, CSS, Figma.
-- 🌱 I’m currently learning - Many different things but mainly C#, React Native and german atm :)
-- 💬 Ask me about - Anything and I will most likely answer :) 
-- 📫 How to reach me: www.karinwebdesigner.com < has all my info
-- ⚡ Fun fact - Did you know that the concept of a "doodle" has been reimagined and transformed into a form of art and expression known as "zentangle"? Zentangle is a meditative art form that involves creating intricate patterns within a confined space, often with repetitive and structured strokes. It started as a way to relax and focus the mind, and now many people use it as a creative outlet. It's a fascinating blend of mindfulness and artistic expression.
-  
+# Hi there, I'm Karin Ekenberg! 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
+
+## 🚀 About Me
+
+- 🔭 I am currently working on improving my skills in .NET development, building a React and TypeScript project,
+  and contributing to a volunteer project for a local football club to enhance their digital presence.
+- 🌱 I am currently learning .NET development, advanced SQL queries, React with TypeScript, and German!
+- 👯 I’m looking to collaborate on exciting open-source projects and innovative startups.
+- 💬 Ask me about web development, balancing family life with coding, or anything tech-related!
+- 📫 How to reach me: [Email](mailto:k.ekenberg.dev@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I practice German every day and can already form simple sentences! 🎯
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** C#, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js
+- **DevOps:** GitHub Actions
+- **Databases:** Sql, Sql Server
+
+## 📈 GitHub Stats
+
+![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinEkenberg&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinEkenberg&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karin-ekenberg-webbutvecklare)
+
+## 🖥️ Check out my work
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F7B800?style=for-the-badge&logo=html5&logoColor=white)](https://www.karinwebdesigner.com)
+
+
+Thanks for stopping by! Feel free to check out my repositories and reach out if you'd like to collaborate on a project or just chat about tech!
