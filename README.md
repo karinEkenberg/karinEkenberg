@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   and contributing to a volunteer project for a local football club to enhance their digital presence.
 - 🌱 I am currently learning .NET development, advanced SQL queries, React with TypeScript, and German!
 - 👯 I’m looking to collaborate on exciting open-source projects and innovative startups.
-- 💬 Ask me about web development, balancing family life with coding, or anything tech-related!
-- 📫 How to reach me: [Email](mailto:k.ekenberg.dev@gmail.com)
+- 💬 Ask me about web development or anything tech-related!
+- 📫 How to reach me: [k.ekenberg.dev@gmail.com](mailto:k.ekenberg.dev@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I practice German every day and can already form simple sentences! 🎯
 
@@ -19,6 +19,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Frameworks:** React, Node.js
 - **DevOps:** GitHub Actions
 - **Databases:** Sql, Sql Server
+
+📚 Outside of Tech
+
+When I’m not coding, you’ll find me exploring creative outlets such as drawing, delving into language learning, 
+and enjoying nature walks. I’m also passionate about staying active and am obsessed with reaching my daily step 
+goals—it’s my favorite way to recharge and stay motivated!
 
 ## 📈 GitHub Stats
 
