@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 When I’m not coding, you’ll find me exploring creative outlets such as drawing, delving into language learning, 
 and enjoying nature walks. I’m also passionate about staying active and am obsessed with reaching my daily step 
-goals—it’s my favorite way to recharge and stay motivated!
+goals, it’s my favorite way to recharge and stay motivated!
 
 ## 📈 GitHub Stats
 
