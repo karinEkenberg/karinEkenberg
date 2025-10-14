@@ -39,7 +39,7 @@ goals, it’s my favorite way to recharge and stay motivated!
 
 ## 🖥️ Check out my work
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23F7B800?style=for-the-badge&logo=html5&logoColor=white)](https://portfolion-gray.vercel.app/)
-)
+
 
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you'd like to collaborate on a project or just chat about tech!
