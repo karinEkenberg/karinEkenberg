@@ -56,11 +56,9 @@ daily step goals, it’s my favorite way to recharge and stay focused!
 
 <img src="https://github-readme-stats-two-nu.vercel.app/api?username=karinEkenberg&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=karinEkenberg&layout=compact&theme=radical" alt="Top Languages" />
-
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinEkenberg&layout=compact&theme=radical)
+<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=karinEkenberg&layout=compact&theme=radical" alt="Top Languages" />
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karin-ekenberg-webbutvecklare)
